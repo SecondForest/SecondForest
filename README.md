@@ -1,19 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=172345&height=300&section=header&text=SecondFoest&fontSize=110)
+![header](https://capsule-render.vercel.app/api?type=waving&color=172345&height=300&section=header&text=SecondForest&fontSize=110&fontColor=ffffff&fontAlign=58&fontAlignY=65&stroke=E83E19&strokeWidth=2)
 
 <div align=center>
   
-![Anurag's GitHub stats](https://github-readme-stats-kappa-six-17.vercel.app/api?username=SecondForest&theme=merko&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-kappa-six-17.vercel.app/api?username=SecondForest&theme=jolly&show_icons=true)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SecondForest&theme=merko&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SecondForest&theme=jolly&show_icons=true)
   
   <br>
   
-  ✉️ E-mail : reversiblehope@gmail.com
+  📧 E-mail : reversiblehope@gmail.com
   
   <br>
   
-  🎓 <Strong>Study</Strong> 🎓
+<div align=center><h4>🖋 Study Stack</h4></div>
   
   <p>
   
@@ -38,7 +38,7 @@
   
   </p>
   
-<div align=center><h4>RECORD</h4></div>
+<div align=center><h4>🧾 RECORD</h4></div>
 <div align=center>
   <a href="https://github.com/SecondForest"><img src="https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <a href="https://velog.io/@bornlunacy"><img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white">
