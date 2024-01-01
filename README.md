@@ -12,6 +12,9 @@
   📧 E-mail : reversiblehope@gmail.com
   
   <br>
+  TEL : 010.2749.8301
+  
+  <br>
   
 <div align=center><h4>🖋 Study Stack</h4></div>
   
@@ -35,7 +38,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white">
-  
+  oracle, H2, MyBatis, JPA
   </p>
   
 <div align=center><h4>🧾 RECORD</h4></div>
